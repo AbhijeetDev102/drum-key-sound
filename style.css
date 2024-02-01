@@ -6,7 +6,7 @@
 
 body{
     display: flex;
-    background-image: url(/image.jpg);
+    background-image: url(./image.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
